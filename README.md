@@ -1,19 +1,13 @@
-### Hi 👋 My name is Chelsea Sexton
+# Hi 👋 My name is Chelsea Sexton
 
-:round_pushpin: I am based in Dallas, Tx
-See my portfolio at 
+## :computer: Full Stack Developer
 
-<!--
-**chelsea314/chelsea314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :round_pushpin: I am based in Dallas, Tx
+- :open_file_folder: See my portfolio at [Chelsea Sexton Portfolio](https://chelsea314.github.io/portfolio)
+- :e-mail: You can contact me at [chelseansexton@gmail.com](mailto:chelseansexton@gmail.com)
+- :art: I am passionate about user-centered and responsive design
+- :dog: Fun fact: I have a Golden Doodle named Finn
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
