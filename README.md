@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi 👋 My name is Chelsea Sexton
+
+:round_pushpin: I am based in Dallas, Tx
+See my portfolio at 
 
 <!--
 **chelsea314/chelsea314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
