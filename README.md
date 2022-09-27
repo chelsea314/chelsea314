@@ -10,4 +10,5 @@
 
 
 ### Skills
-
+![MongoDB](https://img.icons8.com/color/344/mongodb.png)
+![Express](https://img.icons8.com/ios/344/express-js.png)
